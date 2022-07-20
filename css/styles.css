@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(70, 70, 70);
+    background-image: url(../image/foto\ de\ fundo.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%; 
+    font-family: 'League Gothic', sans-serif;;
+    color: black;
+}
+main {
+    background-color: rgba(0, 0, 0, 0.418);
+    padding:5px 40px ;
+    margin-top: -7px;
+    border-radius: 10px;
+    color: aqua;
+
+}
+article{ 
+    width: cover;
+    text-align: left;
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(0, 225, 255);
+    background-color: black;
+    padding:10px 20px;
+}
+
+    .mongo {margin: 0;
+    text-align: center;} 
+
+
+    .logo {margin: 0;
+    text-align: center;} 
+
+    .manchete {margin: 0;
+    text-align: center;}
+
+
+    .headline{
+    margin: 0;
+    text-align: center;
+}
